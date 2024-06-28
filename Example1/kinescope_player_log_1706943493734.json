@@ -1,0 +1,506 @@
+{
+  "playerVersion": "2.122.11",
+  "date": "2024-02-03T06:58:13.734Z",
+  "clientId": "eff49886-11cf-41c4-8cca-936a89c3d9ba",
+  "playerId": "player_ac49ed05-bec5-4646-8147-0bfba4a25d51",
+  "containerId": "player_ac49ed05-bec5-4646-8147-0bfba4a25d51",
+  "url": "https://kinescope.io/embed/ac49ed05-bec5-4646-8147-0bfba4a25d51",
+  "referrer": "https://my.rekhert.com/",
+  "iframe": true,
+  "standaloneApp": false,
+  "system": {
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "browser": {
+      "name": "Chrome",
+      "version": "121.0.0.0",
+      "major": "121"
+    },
+    "cpu": {
+      "architecture": "amd64"
+    },
+    "device": {},
+    "engine": {
+      "name": "Blink",
+      "version": "121.0.0.0"
+    },
+    "os": {
+      "name": "Windows",
+      "version": "11"
+    },
+    "navigator": {
+      "deviceMemory": 8,
+      "hardwareConcurrency": 16,
+      "maxTouchPoints": 0,
+      "language": "en-US",
+      "onLine": true,
+      "connection": {
+        "effectiveType": "4g"
+      },
+      "userActivation": {
+        "hasBeenActive": true,
+        "isActive": true
+      }
+    },
+    "performance": {
+      "memory": {
+        "jsHeapSizeLimit": 4095.75,
+        "totalJSHeapSize": 25.397920608520508,
+        "usedJSHeapSize": 20.374311447143555
+      }
+    }
+  },
+  "state": {
+    "mobileMode": false,
+    "lang": "en",
+    "fullscreenApiAvailable": true,
+    "pipAvailable": false,
+    "fullscreen": false,
+    "pip": false,
+    "seekable": true,
+    "volume": {
+      "value": 1,
+      "muted": false
+    },
+    "playbackrate": 2,
+    "videoId": "ac49ed05-bec5-4646-8147-0bfba4a25d51",
+    "videoType": "vod",
+    "videoQuality": 480,
+    "audioTrack": "und",
+    "duration": 1778.96,
+    "currentTime": 0,
+    "adBreakEnabled": false
+  },
+  "options": {
+    "playlist": [
+      {
+        "uid": "62d4e865-c1e9-4a70-83ad-22004c15bcb0",
+        "frameRate": {
+          "360": 25,
+          "480": 25,
+          "720": 25
+        },
+        "id": "ac49ed05-bec5-4646-8147-0bfba4a25d51",
+        "meta": {
+          "folderId": "7d39bdfb-a59a-4a9d-a8be-b87feac4a0af",
+          "projectId": "d0f06053-b420-47b3-9fc9-a7684e7baae6",
+          "workspaceId": "93915382-9528-4157-b809-7950aa04a052",
+          "type": "vod"
+        },
+        "sources": {
+          "hls": {
+            "segments": "fmp4",
+            "selector": {
+              "params": "-pruned-",
+              "qualityMap": "-pruned-"
+            },
+            "src": "https://kinescope.io/ac49ed05-bec5-4646-8147-0bfba4a25d51/master.m3u8?expires=1706941554&kinescope_project_id=d0f06053-b420-47b3-9fc9-a7684e7baae6&sign=71661965c9342d8b4b81cc5500464e32&token="
+          },
+          "shakadash": {
+            "src": "https://kinescope.io/ac49ed05-bec5-4646-8147-0bfba4a25d51/master.mpd?expires=1706941554&kinescope_project_id=d0f06053-b420-47b3-9fc9-a7684e7baae6&sign=71661965c9342d8b4b81cc5500464e32"
+          }
+        },
+        "title": "Урок 8.2. Pandas Сортировка и Фильтрация - 29 минут",
+        "subtitle": "",
+        "poster": {
+          "src": {
+            "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_sm/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+            "srcset": [
+              "-pruned-",
+              "-pruned-",
+              "-pruned-",
+              "-pruned-",
+              "-pruned-",
+              "-pruned-",
+              "-pruned-",
+              "-pruned-"
+            ]
+          },
+          "crossOrigin": "anonymous",
+          "small": {
+            "src": {
+              "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_sm/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+              "srcset": "-pruned-"
+            }
+          }
+        },
+        "qualityLabels": {
+          "360": {
+            "label": "360p",
+            "q": 360
+          },
+          "480": {
+            "label": "480p",
+            "q": 480
+          },
+          "720": {
+            "label": "720p",
+            "q": 720
+          },
+          "list": [
+            360,
+            480,
+            720
+          ]
+        },
+        "tools": [],
+        "drm": {
+          "auth": null,
+          "clearkey": {
+            "licenseUrl": "https://license.kinescope.io/v1/vod/ac49ed05-bec5-4646-8147-0bfba4a25d51/acquire/clearkey?token="
+          },
+          "fairplay": null,
+          "widevine": null,
+          "sampleAes": true
+        }
+      }
+    ],
+    "behaviour": {
+      "crossOrigin": "anonymous",
+      "seekable": true,
+      "fullscreenFallback": "video",
+      "endscreen": "replay",
+      "preload": "none",
+      "autoPause": true,
+      "playsInline": true,
+      "waitForPoster": 2000,
+      "localStorage": {
+        "time": true,
+        "volume": true,
+        "playbackRate": true,
+        "quality": "global",
+        "textTrack": "global",
+        "storage": "session"
+      },
+      "keyboard": true,
+      "playToggleable": true,
+      "fullscreenToggleable": true,
+      "playlist": {
+        "autoSwitch": true,
+        "autoPlayOnSwitch": true
+      },
+      "rotateToFullscreen": false,
+      "playToFullscreen": false
+    },
+    "size": {
+      "width": "100%",
+      "height": "100%"
+    },
+    "ui": {
+      "transparent": true,
+      "playbackRates": [
+        0.25,
+        0.5,
+        0.75,
+        1,
+        1.25,
+        1.5,
+        1.75,
+        2
+      ],
+      "maxTitleLength": 140,
+      "videoFit": "contain",
+      "posterFit": "cover",
+      "mode": "default",
+      "controls": true,
+      "title": false,
+      "liveLabel": true,
+      "annotationsButton": true,
+      "controlBar": true,
+      "mainPlayButton": true,
+      "progressBar": true,
+      "buttonsBar": true,
+      "time": true,
+      "prevButton": true,
+      "nextButton": true,
+      "playButton": true,
+      "liveButton": true,
+      "playbackRateButton": true,
+      "volumeButton": true,
+      "subtitlesButton": true,
+      "subtitlesSearch": true,
+      "audioTracksButton": true,
+      "playlistButton": true,
+      "autoSwitchButton": true,
+      "attachmentsButton": true,
+      "downloadsButton": true,
+      "chaptersButton": true,
+      "settingsButton": true,
+      "airplayButton": true,
+      "chromecastButton": true,
+      "pipButton": true,
+      "fullscreenButton": true,
+      "initial": {
+        "spinner": true,
+        "controls": true,
+        "title": false,
+        "controlBar": false,
+        "mainPlayButton": true,
+        "openChaptersMenu": false,
+        "openPlaylistMenu": false
+      },
+      "fullscreen": {
+        "title": false
+      },
+      "contextMenu": {
+        "hotkeys": true,
+        "systemLog": true,
+        "about": true,
+        "version": "hidden"
+      },
+      "branding": {
+        "imageUrl": "data:image/png;base64,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",
+        "title": "DataBoom",
+        "url": ""
+      }
+    },
+    "theme": {
+      "colors": {
+        "primary": "#C763F7"
+      }
+    },
+    "settings": {
+      "autoIframeApi": false,
+      "networkStatus": true,
+      "sourceSelector": {
+        "priority": [
+          "ws",
+          "webrtc",
+          "shakadash",
+          "shaka-dash",
+          "dash",
+          "shakahls",
+          "shaka-hls",
+          "hls",
+          "file",
+          "mp4"
+        ]
+      },
+      "driverSettings": {
+        "dash": {
+          "streaming": {
+            "abr": {
+              "additionalAbrRules": "-pruned-"
+            },
+            "liveCatchup": {
+              "enabled": false
+            }
+          }
+        },
+        "ws": {
+          "maxRetries": 10,
+          "idleTimeout": 0,
+          "halfOpenDetection": {
+            "pingTimeout": 8000,
+            "outMessage": "{\"method\":\"pong\"}"
+          },
+          "dvr": {},
+          "abr": false
+        },
+        "webrtc": {
+          "rtc": {
+            "sdpSemantics": "unified-plan",
+            "bundlePolicy": "max-compat"
+          },
+          "ws": {
+            "maxRetries": 10,
+            "idleTimeout": 0,
+            "halfOpenDetection": {
+              "pingTimeout": 8000,
+              "outMessage": "{\"method\":\"pong\"}"
+            }
+          },
+          "dvr": {}
+        }
+      },
+      "oldmetrics": {
+        "url": "https://metrics.kinescope.io/player",
+        "errors": {
+          "url": "https://player-errors.kinescope.io/v1/errors"
+        }
+      },
+      "metrics": {
+        "url": "https://player.kinescope.io/v1/batch",
+        "interval": 60000,
+        "timestamp": 1706941254
+      }
+    },
+    "containerId": "player_ac49ed05-bec5-4646-8147-0bfba4a25d51",
+    "playerId": "player_ac49ed05-bec5-4646-8147-0bfba4a25d51"
+  },
+  "rawOptions": {
+    "playlist": [
+      {
+        "sources": {
+          "hls": {
+            "segments": "fmp4",
+            "selector": {
+              "params": {
+                "audio": "lang",
+                "quality": "quality"
+              },
+              "qualityMap": {
+                "360": "360p",
+                "480": "480p",
+                "720": "720p"
+              }
+            },
+            "src": "https://kinescope.io/ac49ed05-bec5-4646-8147-0bfba4a25d51/master.m3u8?expires=1706941554&kinescope_project_id=d0f06053-b420-47b3-9fc9-a7684e7baae6&sign=71661965c9342d8b4b81cc5500464e32&token="
+          },
+          "shakadash": {
+            "src": "https://kinescope.io/ac49ed05-bec5-4646-8147-0bfba4a25d51/master.mpd?expires=1706941554&kinescope_project_id=d0f06053-b420-47b3-9fc9-a7684e7baae6&sign=71661965c9342d8b4b81cc5500464e32"
+          }
+        },
+        "id": "ac49ed05-bec5-4646-8147-0bfba4a25d51",
+        "title": "Урок 8.2. Pandas Сортировка и Фильтрация - 29 минут",
+        "subtitle": "",
+        "poster": {
+          "src": {
+            "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_sm/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+            "srcset": [
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_xs/ee13d3df-f945-4764-819b-8b944ac99dfd.webp",
+                "media": "(max-width: 160px) and (max-height: 90px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_sm/ee13d3df-f945-4764-819b-8b944ac99dfd.webp",
+                "media": "(max-width: 320px) and (max-height: 240px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_md/ee13d3df-f945-4764-819b-8b944ac99dfd.webp",
+                "media": "(max-width: 640px) and (max-height: 400px)"
+              },
+              {
+                "type": "image/webp",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_lg/ee13d3df-f945-4764-819b-8b944ac99dfd.webp",
+                "media": "(min-width: 640.1px) and (min-height: 400.1px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_xs/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+                "media": "(max-width: 160px) and (max-height: 90px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_sm/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+                "media": "(max-width: 320px) and (max-height: 240px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_md/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+                "media": "(max-width: 640px) and (max-height: 400px)"
+              },
+              {
+                "type": "image/jpeg",
+                "src": "https://edge-msk-5.kinescopecdn.net/93915382-9528-4157-b809-7950aa04a052/posters/340aa967-625c-475f-b0be-e613bf29ddff/poster_lg/ee13d3df-f945-4764-819b-8b944ac99dfd.jpg",
+                "media": "(min-width: 640.1px) and (min-height: 400.1px)"
+              }
+            ]
+          }
+        },
+        "qualityLabels": {
+          "360": {
+            "label": "360p",
+            "q": 360
+          },
+          "480": {
+            "label": "480p",
+            "q": 480
+          },
+          "720": {
+            "label": "720p",
+            "q": 720
+          }
+        },
+        "frameRate": {
+          "360": 25,
+          "480": 25,
+          "720": 25
+        },
+        "drm": {
+          "auth": null,
+          "clearkey": {
+            "licenseUrl": "https://license.kinescope.io/v1/vod/ac49ed05-bec5-4646-8147-0bfba4a25d51/acquire/clearkey?token="
+          },
+          "fairplay": null,
+          "widevine": null,
+          "sampleAes": true
+        },
+        "meta": {
+          "folderId": "7d39bdfb-a59a-4a9d-a8be-b87feac4a0af",
+          "projectId": "d0f06053-b420-47b3-9fc9-a7684e7baae6",
+          "workspaceId": "93915382-9528-4157-b809-7950aa04a052",
+          "type": "vod"
+        }
+      }
+    ],
+    "behaviour": {
+      "endscreen": "replay",
+      "preload": false
+    },
+    "size": {
+      "width": "100%",
+      "height": "100%"
+    },
+    "ui": {
+      "playbackRateButton": true,
+      "title": false,
+      "mainPlayButton": true,
+      "chromecastButton": true,
+      "airplayButton": true,
+      "initial": {
+        "controlBar": false,
+        "title": false
+      },
+      "branding": {
+        "imageUrl": "data:image/png;base64,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",
+        "title": "DataBoom",
+        "url": ""
+      },
+      "annotationsButton": true,
+      "subtitlesSearch": true
+    },
+    "theme": {
+      "colors": {
+        "primary": "#C763F7"
+      }
+    },
+    "settings": {
+      "metrics": {
+        "url": "https://player.kinescope.io/v1/batch",
+        "interval": 60000,
+        "timestamp": 1706941254
+      },
+      "oldmetrics": {
+        "url": "https://metrics.kinescope.io/player",
+        "errors": {
+          "url": "https://player-errors.kinescope.io/v1/errors"
+        }
+      },
+      "driverSettings": {}
+    }
+  },
+  "errors": [
+    {
+      "format": "shakadash",
+      "playback": "driver",
+      "type": "generic",
+      "severity": "fatal",
+      "error": {
+        "severity": 2,
+        "category": 7,
+        "code": 7003,
+        "data": [
+          null
+        ],
+        "handled": false,
+        "message": "Shaka Error 7003",
+        "stack": "Error: Shaka Error 7003\n    at new lt (https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:51417)\n    at M.h (https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:160461)\n    at D (https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:28102)\n    at R.next (https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:28396)\n    at https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:28931\n    at new Promise (<anonymous>)\n    at https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:28823\n    at L (https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:28942)\n    at https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:160138\n    at https://player.kinescope.io/v2.122.11/driver_dashls.a4504001.js:1:161107"
+      },
+      "path": "VideoController -> ShakaDriver -> onError",
+      "currentTime": 417.821811
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Name,Age,Gender,City,file_name,Salary,Department,Email
+John,25,Male,New York,file1.csv,,,
+Emily,30,Female,London,file1.csv,,,
+Michael,40,Male,Los Angeles,file1.csv,,,
+Sophia,35,Female,Paris,file1.csv,,,
+John,,,New York,file2.csv,5000,Engineering,
+Emily,,,London,file2.csv,6000,Marketing,
+Michael,,,Los Angeles,file2.csv,7000,Finance,
+Daniel,,,San Francisco,file2.csv,5500,Sales,
+Emma,,,New York,file3.csv,,HR,emma@example.com
+Liam,,,San Francisco,file3.csv,,Engineering,liam@example.com
+Olivia,,,Boston,file3.csv,,Finance,olivia@example.com
+Noah,,,Seattle,file3.csv,,IT,noah@example.com
+Sophia,,,Los Angeles,file3.csv,,Marketing,sophia@example.com
